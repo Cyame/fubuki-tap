@@ -1,10 +1,12 @@
 # Fubuki TAP
 
-Self-redeployed version of Fubuki-tap, since original repository is achieved and deprecated because of the criticized decision on CN by Cover. However, this delicate and elaborate work shouldn't be treated like it was. I reopen the deployment on my own site based on MIT License, please applause to LonelyIon and his team. I repute great appreciation and respect to their great works throughout the year, and feel astonished and ashamed for the determination and announcement of Cover and Hololive as a previous member of China sub-team of Hololive-JP (Since there's no official sub-team operating now).
+Self-redeployed version of Fubuki-tap, since original repository is achieved and deprecated because of the criticized decision on CN by Cover. However, this delicate and elaborate work shouldn't be treated like it was. I reopen the deployment on my own site based on MIT License, please applause to LonelyIon and his team. I repute great appreciation and respect to their great works throughout the year, and feel astonished and ashamed for the determination and announcement from Cover and Hololive as a previous member of China sub-team of Hololive-JP (Since there's no official sub-team operating now).
 
 You could share this project if you like, enjoy it as it firstly aimed to be, but remember it's a perfect fan work from a Chinese team. We will stay strong and inviolable, forever.
 
-**(Note: This project and site is not guaranteed to operate everlastingly. Please shoot me message if you have any issues.)**
+**(Note: This project and site are not guaranteed to operate everlastingly. Please shoot me message if you have any issues.)**
+
+---
 
 > 白上吹雪2020生日企划之一，通过点击/触摸来播放带有动态图形的声音的互动内容。
 > 
